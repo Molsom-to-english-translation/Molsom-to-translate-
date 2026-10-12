@@ -1,0 +1,1 @@
+const englishToMolsom={hello:"khurumjari",water:"tui",food:"sa",mother:"nu",father:"pa"};const molsomToEnglish={};for(const k in englishToMolsom){molsomToEnglish[englishToMolsom[k].toLowerCase()]=k;}
